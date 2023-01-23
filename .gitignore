@@ -1,0 +1,7 @@
+.upm
+__pycache__
+.config
+.breakpoints
+venv
+dist
+*.egg-info
